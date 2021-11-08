@@ -1,0 +1,70 @@
+﻿Food00	Bread00	1	0	MaterialHarvest	750	10	1
+Food01	Bread01	1	1	MaterialHarvest	500	20	1
+Food02	Bread02	1	2	MaterialHarvest	300	30	1
+Food03	Bread03	1	3	MaterialHarvest	200	40	1
+Food04	Bread04	1	4	MaterialHarvest	100	50	1
+Cerulean00	Cerulean00	4	0	MaterialHarvest	150	10	50
+Cerulean00	Cerulean00	4	0	CeruleanRepulse	1000	100	125
+Cerulean01	Cerulean01	4	1	CeruleanRepulse	750	200	300
+Cerulean02	Cerulean02	4	2	CeruleanRepulse	500	300	650
+Cerulean03	Cerulean03	4	3	CeruleanRepulse	250	400	900
+Cerulean04	Cerulean04	4	4	CeruleanRepulse	100	500	1250
+Cerulean05	Cerulean00	4	0	RuinsExplore	0	1000	50
+Cerulean06	Cerulean00	4	0	BusDrive, Football	200	100	50
+Cerulean07	Cerulean01	4	1	BusDrive, Football	200	100	50
+Cerulean08	Cerulean02	4	2	BusDrive, Football	200	100	50
+Cerulean09	Cerulean03	4	3	BusDrive, Football	200	100	50
+Cerulean10	Cerulean04	4	4	BusDrive, Football	200	100	50
+SandStar00	SandStar00	3	0	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive, Football	10	100	1
+SandStar01	SandStar01	3	1	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive, Football	3	100	1
+SandStar02	SandStar02	3	2	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive	4	100	1
+SandStar03	SandStar03	3	3	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive	4	100	1
+SandStar04	SandStar04	3	4	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive	4	100	1
+SandStar05	SandStar05	3	5	RuinsExplore, BusDrive	4	100	1
+SandStar06	SandStar06	3	6	BusDrive	2	100	1
+Coin00	Coin00	2	0	MaterialHarvest, CeruleanRepulse, BusDrive, Football	1	1000	1
+Coin01	Coin00	2	0	RuinsExplore	50	1000	1
+None	None	0	0	CeruleanRepulse, RuinsExplore, BusDrive	0	0	-1
+Bread00	Bread00	1	0	CeruleanRepulse, RuinsExplore, BusDrive, Football	500	10	1
+Bread01	Bread01	1	1	CeruleanRepulse, RuinsExplore, BusDrive, Football	400	20	1
+Bread02	Bread02	1	2	CeruleanRepulse, RuinsExplore, BusDrive, Football	300	30	1
+Bread03	Bread03	1	3	CeruleanRepulse, RuinsExplore, BusDrive, Football	200	40	1
+Bread04	Bread04	1	4	CeruleanRepulse, RuinsExplore, BusDrive, Football	100	50	1
+Bread05	Bread00	1	0	Football	750	50	1
+Bread06	Bread01	1	1	Football	600	100	1
+Bread07	Bread02	1	2	Football	450	150	1
+Bread08	Bread03	1	3	Football	300	200	1
+Bread09	Bread04	1	4	Football	150	250	1
+Cerulean11	Cerulean00	4	0	Football	80	100	50
+Cerulean12	Cerulean01	4	1	Football	60	150	100
+Cerulean13	Cerulean02	4	2	Football	40	200	150
+Cerulean14	Cerulean03	4	3	Football	20	300	200
+Cerulean15	Cerulean04	4	4	Football	10	400	300
+Wall00	Wall00	5	0	RuinsExplore	0	0	-1
+Wall01	Wall01	5	1	RuinsExplore	0	0	-1
+Wall02	Wall02	5	2	RuinsExplore	0	0	-1
+Wall03	Wall03	5	3	RuinsExplore	0	0	-1
+Wall04	Wall04	5	4	RuinsExplore	0	0	-1
+Wall05	Wall05	5	5	RuinsExplore	0	0	-1
+Wall06	Wall06	5	6	RuinsExplore	0	0	-1
+Wall08	Wall08	5	8	RuinsExplore	0	0	-1
+Wall09	Wall09	5	9	RuinsExplore	0	0	-1
+Wall10	Wall10	5	10	RuinsExplore	0	0	-1
+Wall12	Wall12	5	12	RuinsExplore	0	0	-1
+Tunnel00	Tunnel00	5	13	RuinsExplore	0	0	-1
+Tunnel01	Tunnel01	5	14	RuinsExplore	0	0	-1
+Cave00	Cave00	5	15	RuinsExplore	0	0	-1
+Road00	Road00	5	0	BusDrive	0	0	-1
+Ball00	Ball00	6	0	Football	0	0	-1
+Friend00	Friend00	7	0	Football	0	0	-1
+Friend01	Friend01	7	1	Football	0	0	-1
+Friend02	Friend02	7	2	Football	0	0	-1
+Friend03	Friend03	7	3	Football	0	0	-1
+Friend04	Friend04	7	4	Football	0	0	-1
+Friend05	Friend05	7	5	Football	0	0	-1
+Friend06	Friend06	7	6	Football	0	0	-1
+Friend07	Friend07	7	7	Football	0	0	-1
+Friend08	Friend08	7	8	Football	0	0	-1
+Friend09	Friend09	7	9	Football	0	0	-1
+Friend10	Friend10	7	10	Football	0	0	-1
+Friend11	Friend11	7	11	Football	0	0	-1

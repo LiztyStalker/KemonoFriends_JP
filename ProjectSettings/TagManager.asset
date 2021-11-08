@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mover
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2925254893
+    locked: 0
+  - name: Block
+    uniqueID: 883616377
+    locked: 0
+  - name: Mover
+    uniqueID: 3590062839
+    locked: 0
+  - name: Effect
+    uniqueID: 484558899
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UIEffect
+    uniqueID: 825757697
+    locked: 0

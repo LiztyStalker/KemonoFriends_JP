@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "994441568806",
+    "firebase_url": "https://api-project-60908316.firebaseio.com",
+    "project_id": "api-project-60908316",
+    "storage_bucket": "api-project-60908316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994441568806:android:f3e8900e42025ca3",
+        "android_client_info": {
+          "package_name": "com.Lizty.KFJapariPark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994441568806-pdftm8qocnl8mteriakarak7g2ltb048.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "994441568806-it67gjmggl7djfmunb70cmtm1vljtogf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Lizty.KFJapariPark",
+            "certificate_hash": "2b42a46411f6f4f7f74bf7a75e570c8fa336524a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8jahLf76qA8c1gyZ_fw3C1aYvJVXwZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994441568806-pdftm8qocnl8mteriakarak7g2ltb048.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

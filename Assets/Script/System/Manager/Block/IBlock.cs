@@ -1,0 +1,7 @@
+﻿using UnityEngine;
+
+interface IBlock
+{
+
+}
+

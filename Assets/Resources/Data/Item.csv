@@ -1,0 +1,6 @@
+﻿ItemNone	사용안함	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive, Football	사용안함	0	0	TRUE
+ItemFeral	야성해방	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive, Football	곧바로 야성해방 상태가 됩니다. 야성해방 도중이면 야성해방 시간이 초기화됩니다.	200	0	TRUE
+ItemCerulean	세룰리안퇴치	MaterialHarvest, CeruleanRepulse, BusDrive, Football	모든 세룰리안을 퇴치합니다.	200	0	TRUE
+ItemTime	추가시간	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive, Football	시간이 5초 증가합니다. 시간이 꽉 차있을 때 추가되지 않습니다.	200	5	TRUE
+ItemHelp	도움	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive	5초동안 프렌즈들이 도와줍니다. 터치속도가 빠를 수록 프렌즈들이 바쁘게 움직입니다.	300	5	FALSE
+ItemCombo	콤보유지	MaterialHarvest, CeruleanRepulse, RuinsExplore, BusDrive	5초동안 콤보가 끊기지 않습니다.	150	5	FALSE
